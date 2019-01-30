@@ -1,0 +1,9 @@
+Pour obtenir la configuration :
+https://gist.github.com/odan/1abe76d373a9cbb15bed
+
+Maintenant pour adapter le fichier php_xdebug:
+Obtenir la version de php :
+e:\xampp\php php -m
+
+Télécharger le xdebug qui va avec :
+https://xdebug.org/download.php
